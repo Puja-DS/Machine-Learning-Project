@@ -1,2 +1,1 @@
-# Machine-Learning-Project
-Placement Package Prediction Machine Learning Project
+Project overview:The Placement Package Prediction project aims to predict the placement packages (salary offers) of students based on various academic and non-academic features. By leveraging machine learning techniques, this project helps educational institutions and students understand the factors influencing placement packages and enables better preparation for campus recruitments.
